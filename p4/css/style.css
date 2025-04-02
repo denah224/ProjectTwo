@@ -1,0 +1,19 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    width: 100%;
+    text-decoration: none;
+    border: none;
+    outline: none;
+}
+
+body {
+    background-color: #d2b48c;
+}
+
+.lyrics-four {
+    text-align: left;
+    margin-top: 25%;
+    margin-left: 15%;
+}
