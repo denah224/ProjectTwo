@@ -14,4 +14,7 @@ body {
 .lyrics-seven {
     margin-top: 30%;
     text-align: center;
+    font-family: "Caveat Brush", cursive;
+    font-size: 30px;
+    word-spacing: 3px;
 }

@@ -14,4 +14,7 @@ body {
 .lyrics-two {
     text-align: center;
     margin-top: 25%;
+    font-family: "Caveat Brush", cursive;
+    font-size: 30px;
+    word-spacing: 3px;
 }

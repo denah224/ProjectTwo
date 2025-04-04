@@ -14,16 +14,25 @@ body {
 
 .credits {
     text-align: center;
-    font-weight: 50px ;
+    /* font-weight: 50px ; */
     margin-top: 15%;
+    font-family: "Caveat Brush", cursive;
+    font-size: 28px;
+    word-spacing: 3px;
 }
 
 .lyrics-ten {
     text-align: center;
-    margin-top: 20%;
+    margin-top: 10%;
+    font-family: "Caveat Brush", cursive;
+    font-size: 30px;
+    word-spacing: 3px;
 }
 
 .end {
-    text-align: center
-    m
+    text-align: center;
+    margin-top: 15%;
+    font-family: "Caveat Brush", cursive;
+    font-size: 28px;
+    word-spacing: 3px;
 }

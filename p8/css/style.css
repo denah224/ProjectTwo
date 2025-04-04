@@ -14,4 +14,7 @@ body {
 .lyrics-eight {
     text-align: center;
     margin-top: 20%;
+    font-family: "Caveat Brush", cursive;
+    font-size: 30px;
+    word-spacing: 3px;
 }
