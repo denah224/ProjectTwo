@@ -1,0 +1,56 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    text-decoration: none;
+    border: none;
+    outline: none;
+}
+
+body {
+    background-color: #d2b48c;
+}
+
+.lyrics-two {
+    text-align: center;
+    margin-top: 25%;
+    font-family: "Caveat Brush", cursive;
+    font-size: 30px;
+    word-spacing: 3px;
+}
+/* h1 {
+    font-family: 'Courier New', Courier, monospace;
+    white-space: nowrap;
+    overflow: hidden;
+} */
+
+.two {
+    color: white;
+}
+
+h1 {
+    font-family: 'Courier New', Courier, monospace;
+    display: inline-block;
+    width: 0; 
+    white-space: nowrap;
+    overflow: hidden;
+    border-right: 2px solid black;
+    font-weight: bold;
+    color: #483C32;
+    animation: typing 4s steps(30) 1s forwards, blink 0.75s step-end infinite;
+}
+
+@keyframes typing {
+    from {
+        width: 0;
+    }
+    to {
+        width: 100%;
+    }
+}
+
+@keyframes blink {
+    50% {
+        border-color: transparent;
+    }
+}
